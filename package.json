@@ -8,5 +8,8 @@
   "scripts": {
     "start": "node git/index.js",
     "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.2"
   }
 }
