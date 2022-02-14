@@ -1,0 +1,12 @@
+{
+  "name": "conventional_commit",
+  "version": "1.0.0",
+  "main": "git/index.js",
+  "repository": "https://github.com/bayunugroho2022/conventional_commit.git",
+  "author": "Bayu Nugroho <bayu.nugroho@kpvendor.id>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node git/index.js",
+    "release": "standard-version"
+  }
+}
