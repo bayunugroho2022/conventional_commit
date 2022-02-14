@@ -1,6 +1,6 @@
 {
   "name": "conventional_commit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "git/index.js",
   "repository": "https://github.com/bayunugroho2022/conventional_commit.git",
   "author": "Bayu Nugroho <bayu.nugroho@kpvendor.id>",
